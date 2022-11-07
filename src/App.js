@@ -1,8 +1,14 @@
+import Help from "./components/Help";
+import Manage from "./components/Manage";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <Navbar />
+    <div>
+      <Navbar />,
+      <Help />
+      <Manage />
+    </div>
   );
 }
 

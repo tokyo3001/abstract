@@ -1,10 +1,6 @@
 import React from 'react'
 
 function Navbar() {
-    let Links = [
-        {name: "HOME",link:"/"},
-        {name: "HOME",link:"/"},
-    ]
   return (
     <div className='w-full shadow-md fixed top-0 left-0'>
         <div className='md:flex bg-black py-5 item-center justify-between'>

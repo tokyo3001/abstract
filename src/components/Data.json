@@ -1,0 +1,17 @@
+[
+    {
+        "manage": "account",
+        "link": "\n",
+        "type": "privacy"
+    },
+    {
+        "manage": "settings",
+        "link": "\n",
+        "type": "general"
+    },
+    {
+        "manage": "help",
+        "link": "\n",
+        "type": "general"
+    }
+]
